@@ -73,6 +73,7 @@ $grey-tone: #5c6369;
     transform: translate(-50%, -50%);
   }
 }
+
 //carousel indicators
 .carousel-indicators [data-bs-target] {
   @include carousel-indicator();
